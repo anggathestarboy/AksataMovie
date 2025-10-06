@@ -8,7 +8,7 @@ import { useSelector } from "react-redux";
 import Detail from "./pages/Detail/Detail";
 import DetailSeries from "./pages/DetailSeries/DetailSeries";
 import Category from "./pages/Category/Category";
-import Favorites from "./pages/favorite/Favorite";
+import Favorites from "./pages/Favorite/Favorite";
 import Search from "./pages/Search/Search";
 import Footer from "./components/Footer";
 
