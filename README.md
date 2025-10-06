@@ -5,7 +5,7 @@ Detail Tim :
 - Rizqi Anggara Efendi(28)
   - mengerjakan component Navbar
   - mengerjakan component Footer
-  - mengerjakan home
+  - mengerjakan page home
   - mengerjakan page favorit dan logic tambah favorit untuk film
   - mengerjakan logic rating untuk film dan series
   - memastikan seluruh logic sistem benar
