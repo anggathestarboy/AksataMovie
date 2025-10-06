@@ -52,8 +52,4 @@ list fitur yang dikerjakan
 - paginaton
 - skeleton loading
 - filter konten
-<<<<<<< HEAD
-
-=======
-- horizontal scroll
->>>>>>> 2d86f562b5497a87dba0909921d45cf70569cb96
+- horizotal scroll
