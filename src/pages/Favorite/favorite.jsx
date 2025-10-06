@@ -4,7 +4,7 @@ import { useNavigate } from "react-router-dom";
 import { favoritesService } from "./favoritesService";
 import FavoritesView from "./FavoriteView";
 
-const Favorites = () => {
+const Favorite = () => {
   // Redux state
   const tema = useSelector((state) => state.temaTotal);
   const bahasa = useSelector((state) => state.bahasaTotal);
@@ -100,4 +100,4 @@ const Favorites = () => {
   return <FavoritesView {...viewProps} />;
 };
 
-export default Favorites;
+export default Favorite;

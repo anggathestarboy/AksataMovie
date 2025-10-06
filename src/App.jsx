@@ -8,7 +8,7 @@ import { useSelector } from "react-redux";
 import Detail from "./pages/Detail/Detail";
 import DetailSeries from "./pages/DetailSeries/DetailSeries";
 import Category from "./pages/Category/Category";
-import Favorites from "./pages/Favorite/Favorite";
+import Favorite from "./pages/Favorite/Favorite";
 import Search from "./pages/Search/Search";
 import Footer from "./components/Footer";
 
@@ -28,7 +28,7 @@ function App() {
                <Route path="/category" element={<Category />} />
                <Route path="/search" element={<Search />} />
        
-<Route path="/favorites" element={<Favorites />} />
+<Route path="/favorites" element={<Favorite />} />
                
             </Routes>
             <Footer />
