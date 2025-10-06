@@ -1,12 +1,12 @@
 # Final Project: Aksata Movie
 
-Ketua Tim : Rizqi Anggara Efendi
+## Ketua Tim : Rizqi Anggara Efendi
 Detail Tim : 
 - Rizqi Anggara Efendi(28)
   - mengerjakan component Navbar
   - mengerjakan component Footer
-  - mengerjakan home
-  - mengerjakan page favorit dan logic tambah favorit untuk film
+  - mengerjakan page home
+  - mengerjakan page favorit dan logic favorit untuk film
   - mengerjakan logic rating untuk film dan series
   - memastikan seluruh logic sistem benar
   - mengerjakan bagian redux untuk bahasa dan tema
@@ -35,15 +35,25 @@ list halaman :
 - category
 
 list fitur yang dikerjakan 
+- list film
+- list series
+- list trending
+- list now playing
 - detail film
 - detail series
 - favorite film
 - rating film
 - rating series
 - search konten
+- similar movie
+- similar series
 - ganti bahasa
 - ganti tema
 - paginaton
 - skeleton loading
 - filter konten
+<<<<<<< HEAD
 
+=======
+- horizontal scroll
+>>>>>>> 2d86f562b5497a87dba0909921d45cf70569cb96
