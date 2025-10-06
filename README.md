@@ -35,6 +35,10 @@ list halaman :
 - category
 
 list fitur yang dikerjakan 
+- list film
+- list series
+- list trending
+- list now playing
 - detail film
 - detail series
 - favorite film
