@@ -41,6 +41,8 @@ list fitur yang dikerjakan
 - rating film
 - rating series
 - search konten
+- similar movie
+- similar series
 - ganti bahasa
 - ganti tema
 - paginaton
