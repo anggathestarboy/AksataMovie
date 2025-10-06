@@ -1,6 +1,6 @@
 # Final Project: Aksata Movie
 
-Ketua Tim : Rizqi Anggara Efendi
+## Ketua Tim : Rizqi Anggara Efendi
 Detail Tim : 
 - Rizqi Anggara Efendi(28)
   - mengerjakan component Navbar
